@@ -2,7 +2,7 @@
 
 ![image](https://github.com/Team-Soong-Kor-Dan-of-10th-K-Hackathon/do-the-jip/assets/81142151/523f1235-ef7e-44fb-ac50-3bf1228905c1)
 
-> 제 10회 K-해커톤에서 수도권 권역 300팀 중 본선 진출 14팀에 선정되었습니다.
+> [제 10회 K-해커톤](http://www.k-hackathon.com/view.asp?idx=450&boardcode=notice&page=2)에서 수도권 권역 300팀 중 본선 진출 14팀에 선정되었습니다.
 
 <br>
 
