@@ -33,7 +33,7 @@
 ### 백엔드
 * 언어 : Java
 * 프레임워크 : Spring(Spring Boot)
-* 라이브러리 및 기타 도구 : Spring Data JPA, lombok, h2, JUnit, gradle
+* 라이브러리 및 기타 도구 : Spring Data JPA, lombok, JUnit, gradle
 * 데이터베이스 : AWS RDS(MySQL)
 * 배포 : AWS Lambda(Serverless)
 
