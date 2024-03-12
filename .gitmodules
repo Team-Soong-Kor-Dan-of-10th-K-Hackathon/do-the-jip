@@ -1,0 +1,6 @@
+[submodule "do-the-jip-client"]
+	path = do-the-jip-client
+	url = https://github.com/Team-Soong-Kor-Dan-of-10th-K-Hackathon/do-the-jip-client
+[submodule "do-the-jip-backend"]
+	path = do-the-jip-backend
+	url = https://github.com/Team-Soong-Kor-Dan-of-10th-K-Hackathon/do-the-jip-backend
